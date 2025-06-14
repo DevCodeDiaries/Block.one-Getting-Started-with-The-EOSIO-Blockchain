@@ -27,6 +27,11 @@ Welcome! This repository provides an automated script and instructions to comple
 Run the following commands in **Google Cloud Shell**:
 
 ```bash
-curl -LO https://raw.githubusercontent.com/DevCodeDiaries/Google-Cloud-Skills-Boost/master/Blockone%20Getting%20Started%20with%20The%20EOSIO%20Blockchain/devcode873.sh
-chmod +x devcode873.sh
-./devcode873.sh
+curl -LO https://raw.githubusercontent.com/curio-bytes/Google-Cloud-Arcade/main/Block.one%3A%20Getting%20Started%20with%20The%20EOSIO%20Blockchain/create_vm.sh
+sudo chmod +x create_vm.sh
+./create_vm.sh
+```
+```bash
+curl -LO https://raw.githubusercontent.com/curio-bytes/Google-Cloud-Arcade/main/Block.one%3A%20Getting%20Started%20with%20The%20EOSIO%20Blockchain/eosio_setup.sh
+chmod +x eosio_setup.sh
+./eosio_setup.sh
