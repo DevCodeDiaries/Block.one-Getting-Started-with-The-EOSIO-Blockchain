@@ -27,8 +27,9 @@ Welcome! This repository provides an automated script and instructions to comple
 Run the following commands in **Google Cloud Shell**:
 
 ```bash
-curl -Lo devcode117.sh https://raw.githubusercontent.com/DevCode117/Google-Cloud-Skills-Boost/master/Blockone%20Getting%20Started%20with%20The%20EOSIO%20Blockchain/devcode117.sh
+curl -Lo devcode117.sh https://raw.githubusercontent.com/DevCode117/<repo-name>/main/devcode117.sh
 chmod +x devcode117.sh
 ./devcode117.sh
+
 ```
 # Thanks - DevCode Diaries
