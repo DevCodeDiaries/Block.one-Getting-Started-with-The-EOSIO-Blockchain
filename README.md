@@ -27,7 +27,7 @@ Welcome! This repository provides an automated script and instructions to comple
 Run the following commands in **Google Cloud Shell**:
 
 ```bash
-curl -Lo devcode117.sh https://raw.githubusercontent.com/DevCodeDiaries/Block.one-Getting-Started-with-The-EOSIO-Blockchain/main/devcode117.sh
+curl -Lo devcode117.sh https://raw.githubusercontent.com/DevCode117/Block.one-Getting-Started-with-The-EOSIO-Blockchain/main/devcode117.sh
 chmod +x devcode117.sh
 ./devcode117.sh
 ```
