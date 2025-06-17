@@ -25,10 +25,10 @@ Welcome! This repository provides an automated script and instructions to comple
 ## 🛠️ How to Use
 
 Run the following commands in **Google Cloud Shell**:
-
+## Updated Code!
 ```bash
-curl -Lo devcode117.sh https://raw.githubusercontent.com/DevCode117/Block.one-Getting-Started-with-The-EOSIO-Blockchain/main/devcode117.sh
-chmod +x devcode117.sh
-./devcode117.sh
+curl -LO raw.githubusercontent.com/Techcps/Google-Cloud-Skills-Boost/master/Blockone%20Getting%20Started%20with%20The%20EOSIO%20Blockchain/techcps873.sh
+sudo chmod +x techcps873.sh
+./techcps873.sh
 ```
 # Thanks - DevCode Diaries
